@@ -1,1 +1,1 @@
-# Design of a functional Audio book with JavaScript
+# Audio book project with JavaScript
