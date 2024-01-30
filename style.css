@@ -1,11 +1,21 @@
 body {
-  background-image: linear-gradient(#3b1566, #5f4da8);
+  background-image: linear-gradient(#7AE687, #7AD7E6);
   height: 100vh;
   display: flex;
   justify-content: center;
   flex-direction: column;
   align-items: center;
   color: #d6d6ea;
+}
+
+.main-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(1,4,0,0.2);
+  width: 480px;
+  height: 680px;
+  border-radius: 15px;
 }
 
 .container-aplicativo {
