@@ -6,3 +6,10 @@ The main goal is create a website Audio book  with JavaScript.
 # Preview 
 
 <img src="https://github.com/FilipeFRSantana/audio-book/blob/main/Preview.png" height="500"/>
+
+## Main concepts applied
+
+- Flexbox
+- HTML
+- CSS
+- JS
