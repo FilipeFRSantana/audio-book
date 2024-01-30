@@ -13,3 +13,23 @@ The main goal is create a website Audio book  with JavaScript.
 - HTML
 - CSS
 - JS
+
+ ## Instructions to run:
+
+1. clone the project:
+
+```
+gti clone https://github.com/FilipeFRSantana/audio-book.git
+```
+
+2.After clone open the folder:
+
+```
+audio-book
+```
+
+3. Open the index file with the browser:
+
+```
+index.html
+```
